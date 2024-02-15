@@ -1,0 +1,42 @@
+body, h1, h2, p, div, section, footer {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling for the body */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+    margin: 20px;
+}
+
+/* Header styling */
+h1 {
+    color: #00cc58;
+}
+
+/* Section styling */
+section {
+    margin-top: 20px;
+}
+
+/* Button styling */
+button {
+    background-color: #00cc88;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
